@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Studio: Generate, Edit, and Analyze",
+  "description": "A powerful and professional AI-driven application to generate new images from text, edit existing images with prompts, and analyze image content using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
